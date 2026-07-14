@@ -1,0 +1,47 @@
+---
+indexpage:
+  title: Cloud Volumes ONTAP 9.18.1 Versionshinweise
+  summary: Diese Versionshinweise beschreiben neue Funktionen, Einschränkungen und
+    bekannte Probleme für Cloud Volumes ONTAP 9.18.1.
+  keywords: RN, CVO, release notes Cloud Volumes ONTAP
+  lead: Diese Versionshinweise beschreiben neue Funktionen, Einschränkungen und bekannte
+    Probleme für Cloud Volumes ONTAP 9.18.1.
+  tiles:
+  - title: Los geht's
+    links:
+    - title: Was ist neu
+      url: reference-new.html
+    - title: Lizenzübersicht
+      url: concept-licensing.html
+  - title: Amazon Web Services
+    links:
+    - title: Unterstützte Konfigurationen
+      url: reference-configs-aws.html
+    - title: Speichergrenzen
+      url: reference-limits-aws.html
+    - title: Einschränkungen
+      url: reference-limitations-aws.html
+  - title: Google Cloud
+    links:
+    - title: Unterstützte Konfigurationen
+      url: reference-configs-gcp.html
+    - title: Speichergrenzen
+      url: reference-limits-gcp.html
+    - title: Einschränkungen
+      url: reference-limitations-gcp.html
+  - title: Microsoft Azure
+    links:
+    - title: Unterstützte Konfigurationen
+      url: reference-configs-azure.html
+    - title: Speichergrenzen
+      url: reference-limits-azure.html
+    - title: Einschränkungen
+      url: reference-limitations-azure.html
+  - title: Blogs & Community
+    links:
+    - title: NetApp Console
+      url: https://www.netapp.com/console
+    - title: NetApp Data Services
+      url: https://www.netapp.com/data-services/
+    - title: NetApp Community
+      url: https://community.netapp.com/
